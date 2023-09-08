@@ -7,17 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oplopr01&label=Profile%20views&color=7EABA2&style=plastic"/> </p>
 
-- 🌱 I’m currently learning **React js , Experss Js**
+- 🌱 I’m currently learning **MERN Full Stack, JavaScript, React js, NodeJS, Experss Js**
 
 - 💬 Ask me about **react, javascript, mongodb**
 
-- 📫 How to reach me **zulfiqarshaikhofficial92@gmail.com**
+- 📫 How to reach me **Connect on LinkedIn**
   
-- ⚡ Fun fact **I think i am a designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zulfiqar-shaikh-6a6893202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zulfiqar-shaikh-6a6893202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakhan-rathore-b88796188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zulfiqar-shaikh-6a6893202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
