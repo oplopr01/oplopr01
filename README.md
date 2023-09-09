@@ -3,7 +3,7 @@
 [![MasterHead](https://github.com/oplopr01/lakhan-/blob/master/images/desctop%20changin%20gif.gif)](https://github.com/oplopr01)
 <h1 align="center">Hi 👋, I'm Lakhan Rathore</h1>
 <h3 align="center">A Fullstack and CyberSecurity enthusiast</h3>
-<img align="right" alt="coding" width="400" src="----ADD IMAGE LINK HERE----">
+<img align="right" alt="coding" width="400" src="https://github.com/oplopr01/oplopr01/blob/main/images/waving%20table.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oplopr01&label=Profile%20views&color=7EABA2&style=plastic"/> </p>
 
