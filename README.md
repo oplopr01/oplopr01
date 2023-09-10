@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://github.com/oplopr01/oplopr01/blob/main/images/namaste.gif)](https://github.com/oplopr01)
+
 <p align="center"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" align="center"/> </p>
 <h1 align="center">👋, I'm Lakhan Rathore</h1>
 <h3 align="center">A Fullstack Developer and CyberSecurity enthusiast</h3>
