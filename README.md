@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lakhan-rathore-b88796188/" target="blank"><img align="center" src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" alt="" height="30" width="70" /></a>
+<img src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" alt=""/> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,6 +42,10 @@
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oplopr01&show_icons=true&locale=en&layout=compact" alt="oplopr01" /></p>
+
+<p align="center">
+<img src="https://github.com/oplopr01/oplopr01/blob/main/images/switching%20UIS.gif" alt=""/>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oplopr01&show_icons=true&locale=en" alt="oplopr01" /></p>
 
