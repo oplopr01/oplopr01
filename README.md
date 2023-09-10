@@ -1,8 +1,14 @@
-### Hi there 👋
 
-[![MasterHead](https://github.com/oplopr01/lakhan-/blob/master/images/desctop%20changin%20gif.gif)](https://github.com/oplopr01)
+
+[![MasterHead](https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif)](https://github.com/oplopr01)
 <h1 align="center">Hi 👋, I'm Lakhan Rathore</h1>
 <h3 align="center">A Fullstack and CyberSecurity enthusiast</h3>
+
+
+<p align="center">
+<img src="https://github.com/oplopr01/lakhan-/blob/master/images/desctop%20changin%20gif.gif" alt=""/> 
+</p>
+
 <img align="right" alt="coding" width="400" src="https://github.com/oplopr01/oplopr01/blob/main/images/waving%20table.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oplopr01&label=Profile%20views&color=7EABA2&style=plastic"/> </p>
@@ -19,9 +25,6 @@
 <a href="https://www.linkedin.com/in/lakhan-rathore-b88796188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zulfiqar-shaikh-6a6893202" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<img src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" alt=""/> 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,7 +44,7 @@
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/redux.gif" alt="REDUX" width="50" height="50"/> </a> 
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oplopr01&show_icons=true&locale=en&layout=compact" alt="oplopr01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oplopr01&show_icons=true&locale=en&layout=compact" alt="oplopr01" /></p>
 
 <p align="center">
 <img src="https://github.com/oplopr01/oplopr01/blob/main/images/switching%20UIS.gif" alt=""/>
