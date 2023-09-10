@@ -19,6 +19,10 @@
 <a href="https://www.linkedin.com/in/lakhan-rathore-b88796188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zulfiqar-shaikh-6a6893202" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/lakhan-rathore-b88796188/" target="blank"><img align="center" src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" alt="" height="30" width="70" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.co" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> </a>
