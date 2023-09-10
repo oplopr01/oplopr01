@@ -1,8 +1,9 @@
 
 
-[![MasterHead](<p align="cenetr"> https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif </p>)](https://github.com/oplopr01)
-<h1 align="center">Hi 👋, I'm Lakhan Rathore</h1>
-<h3 align="center">A Fullstack and CyberSecurity enthusiast</h3>
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fclearbeing-yoga-zen-namaste-jq5ZhIbmOTycoKoUdd&psig=AOvVaw2BdR4Dy9VHa0Qvv2IA8518&ust=1694415409026000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjWwra7n4EDFQAAAAAdAAAAABBb)](https://github.com/oplopr01)
+<p align="center"> https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif </p>
+<h1 align="center">👋, I'm Lakhan Rathore</h1>
+<h3 align="center">A Fullstack Developer and CyberSecurity enthusiast</h3>
 
 <p align="center">
 <img src="https://github.com/oplopr01/lakhan-/blob/master/images/desctop%20changin%20gif.gif" alt=""/> 
