@@ -1,7 +1,7 @@
 
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fclearbeing-yoga-zen-namaste-jq5ZhIbmOTycoKoUdd&psig=AOvVaw2BdR4Dy9VHa0Qvv2IA8518&ust=1694415409026000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjWwra7n4EDFQAAAAAdAAAAABBb)](https://github.com/oplopr01)
-<p align="center"> https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif </p>
+[![MasterHead](https://github.com/oplopr01/oplopr01/blob/main/images/namaste.gif)](https://github.com/oplopr01)
+<p align="center"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" align="center"/> </p>
 <h1 align="center">👋, I'm Lakhan Rathore</h1>
 <h3 align="center">A Fullstack Developer and CyberSecurity enthusiast</h3>
 
@@ -45,8 +45,8 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oplopr01&show_icons=true&locale=en&layout=compact" alt="oplopr01" /></p>
 
-<p align="center">
-<img src="https://github.com/oplopr01/oplopr01/blob/main/images/switching%20UIS.gif" alt=""/>
+<p align="left">
+<img src="https://github.com/oplopr01/oplopr01/blob/main/images/switching%20UIS.gif" align="left" alt=""/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oplopr01&show_icons=true&locale=en" alt="oplopr01" /></p>
