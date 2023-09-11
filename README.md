@@ -1,7 +1,7 @@
 
 
 <p align="center"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/namaste.gif" align="center" height="200" width="600"/> 
-<p align="center"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" width="400" height="200" align="center"/> </p>
+<p align="center"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/LOADING%20GIF.gif" width="600" height="100" align="center"/> </p>
 <h1 align="center">👋, I'm Lakhan Rathore</h1>
 <h3 align="center">A Fullstack Developer and CyberSecurity enthusiast</h3>
 
