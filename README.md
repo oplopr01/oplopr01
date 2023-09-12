@@ -11,9 +11,9 @@
 <img align="right" alt="coding" width="400" src="https://github.com/oplopr01/oplopr01/blob/main/images/waving%20table.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oplopr01&label=Profile%20views&color=7EABA2&style=plastic"/> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack, JavaScript, React js, NodeJS, Experss Js**
+- 🌱 I’m currently learning **MERN Full Stack, JavaScript, React js, NodeJS, Experss Js, oracle SQL, core java**
 
-- 💬 Ask me about **react, javascript, mongodb**
+- 💬 Ask me about **react, javascript, mongodb, working of web**
 
 - 📫 How to reach me **Connect on LinkedIn**
   
