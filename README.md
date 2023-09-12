@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack, JavaScript, React js, NodeJS, Experss Js, oracle SQL, core java**
 
-- 💬 Ask me about **react, javascript, mongodb, working of web**
+- 💬 Ask me about **react, javascript, mongodb, working of web, malware analysis, Web application security**
 
 - 📫 How to reach me **Connect on LinkedIn**
   
@@ -26,10 +26,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.co" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/bootstrap.gif" alt="bootstrap" width="35" height="36"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/css.gif" alt="css3" width="50" height="50"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/expressJS.png" alt="express" width="65" height="40"/> </a> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/>
+ <img src="https://github.com/oplopr01/oplopr01/blob/main/images/bootstrap.gif" alt="bootstrap" width="35" height="36"/>
+ <img src="https://github.com/oplopr01/oplopr01/blob/main/images/css.gif" alt="css3" width="50" height="50"/>
+ <img src="https://github.com/oplopr01/oplopr01/blob/main/images/expressJS.png" alt="express" width="65" height="40"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/html%20animates.gif" alt="html5" width="50" height="50"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/mongodb%20images.png" alt="mongodb" width="50" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/sql.gif" alt="mssql" width="50" height="50"/> </a> 
