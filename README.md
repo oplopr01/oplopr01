@@ -30,11 +30,11 @@
  <img src="https://github.com/oplopr01/oplopr01/blob/main/images/bootstrap.gif" alt="bootstrap" width="35" height="36"/>
  <img src="https://github.com/oplopr01/oplopr01/blob/main/images/css.gif" alt="css3" width="50" height="50"/>
  <img src="https://github.com/oplopr01/oplopr01/blob/main/images/expressJS.png" alt="express" width="65" height="40"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/html%20animates.gif" alt="html5" width="50" height="50"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/mongodb%20images.png" alt="mongodb" width="50" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/sql.gif" alt="mssql" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/nodeJS.gif" alt="nodejs" width="60" height="60"/> </a> 
+<img src="https://github.com/oplopr01/oplopr01/blob/main/images/html%20animates.gif" alt="html5" width="50" height="50"/> 
+<img src="https://github.com/oplopr01/oplopr01/blob/main/images/mongodb%20images.png" alt="mongodb" width="50" height="40"/> 
+ <img src="https://github.com/oplopr01/oplopr01/blob/main/images/sql.gif" alt="mssql" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40"/> 
+ <img src="https://github.com/oplopr01/oplopr01/blob/main/images/nodeJS.gif" alt="nodejs" width="60" height="60"/> 
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/react.gif" alt="react" width="60" height="60"/> </a>
  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/oplopr01/oplopr01/blob/main/images/Git.gif" alt="GIT" width="50" height="40"/> </a> 
